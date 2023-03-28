@@ -3,7 +3,7 @@ Console.Clear();
 Console.WriteLine("Введите трёхзначное число: ");
 
 int threedigit = int.Parse(Console.ReadLine()!);
-if(threedigit > 100 && threedigit < 1000 )
+if (threedigit > 100 && threedigit < 1000)
 {
     Console.WriteLine($"Вторая цифра этого числа {threedigit / 10 % 10}");
 }
