@@ -1,0 +1,15 @@
+C:\Users\37544\Desktop\Csharp_NW_2\Csharp_S2\Task010\bin\Debug\net7.0\Task010.exe
+C:\Users\37544\Desktop\Csharp_NW_2\Csharp_S2\Task010\bin\Debug\net7.0\Task010.deps.json
+C:\Users\37544\Desktop\Csharp_NW_2\Csharp_S2\Task010\bin\Debug\net7.0\Task010.runtimeconfig.json
+C:\Users\37544\Desktop\Csharp_NW_2\Csharp_S2\Task010\bin\Debug\net7.0\Task010.dll
+C:\Users\37544\Desktop\Csharp_NW_2\Csharp_S2\Task010\bin\Debug\net7.0\Task010.pdb
+C:\Users\37544\Desktop\Csharp_NW_2\Csharp_S2\Task010\obj\Debug\net7.0\Task010.csproj.AssemblyReference.cache
+C:\Users\37544\Desktop\Csharp_NW_2\Csharp_S2\Task010\obj\Debug\net7.0\Task010.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37544\Desktop\Csharp_NW_2\Csharp_S2\Task010\obj\Debug\net7.0\Task010.AssemblyInfoInputs.cache
+C:\Users\37544\Desktop\Csharp_NW_2\Csharp_S2\Task010\obj\Debug\net7.0\Task010.AssemblyInfo.cs
+C:\Users\37544\Desktop\Csharp_NW_2\Csharp_S2\Task010\obj\Debug\net7.0\Task010.csproj.CoreCompileInputs.cache
+C:\Users\37544\Desktop\Csharp_NW_2\Csharp_S2\Task010\obj\Debug\net7.0\Task010.dll
+C:\Users\37544\Desktop\Csharp_NW_2\Csharp_S2\Task010\obj\Debug\net7.0\refint\Task010.dll
+C:\Users\37544\Desktop\Csharp_NW_2\Csharp_S2\Task010\obj\Debug\net7.0\Task010.pdb
+C:\Users\37544\Desktop\Csharp_NW_2\Csharp_S2\Task010\obj\Debug\net7.0\Task010.genruntimeconfig.cache
+C:\Users\37544\Desktop\Csharp_NW_2\Csharp_S2\Task010\obj\Debug\net7.0\ref\Task010.dll
